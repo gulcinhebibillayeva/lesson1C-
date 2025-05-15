@@ -1,0 +1,7 @@
+C:\Users\Admin\Desktop\Step\C++\Lesson\Exams\Lesson1 Task1\bin\Debug\Lesson1 Task1.exe.config
+C:\Users\Admin\Desktop\Step\C++\Lesson\Exams\Lesson1 Task1\bin\Debug\Lesson1 Task1.exe
+C:\Users\Admin\Desktop\Step\C++\Lesson\Exams\Lesson1 Task1\bin\Debug\Lesson1 Task1.pdb
+C:\Users\Admin\Desktop\Step\C++\Lesson\Exams\Lesson1 Task1\obj\Debug\Lesson1 Task1.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Step\C++\Lesson\Exams\Lesson1 Task1\obj\Debug\Lesson1 Task1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Step\C++\Lesson\Exams\Lesson1 Task1\obj\Debug\Lesson1 Task1.exe
+C:\Users\Admin\Desktop\Step\C++\Lesson\Exams\Lesson1 Task1\obj\Debug\Lesson1 Task1.pdb
